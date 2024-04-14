@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './Main/Navbar/Navbar';
 import Main from './Main/Main';
 
 function App() {
@@ -9,6 +8,7 @@ function App() {
 <Main/>
 
     </div>
+
   );
 }
 
