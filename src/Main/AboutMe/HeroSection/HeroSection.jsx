@@ -29,7 +29,7 @@ const HeroSection = () => {
       </div>
 
       <img src='./images/heroPic.png' alt="Background" className="absolute left-44 top-24 h-[550px]" />
-      <div className="flex flex-col justify-between p-4 absolute text-lg text-white top-72 left-[900px] z-10 w-60 h-36 bg-[#344C36]">
+      <div className="flex flex-col justify-between p-4 absolute text-lg text-white top-80 right-56 z-10 w-60 h-36 bg-[#344C36]">
         <span></span>
         <span>FB: Eric Allen</span>
         <span>IG: ericallen349</span>
