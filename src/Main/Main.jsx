@@ -51,7 +51,7 @@ const Main = () => {
 
   return (
     <>
-      <div className='fixed top-0 left-0 w-full text-white z-50'>
+      <div className='fixed top-0 h-16 left-0 w-full bg-black bg-opacity-30 text-white z-50'>
         <div className={`flex justify-between items-center p-4 ${activeTab === 'Resume' ? 'text-black' : ''}`}>
           <div className="text-4xl font-serif">
             Eric Younas
